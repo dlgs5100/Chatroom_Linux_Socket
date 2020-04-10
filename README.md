@@ -24,5 +24,5 @@ Disconnection <br/>
 Construct 4 host on the mininet and they can “ping” each other. <br/>
 h1 is server <br/>
 h2 h3 h4 is client <br/>
-![image](https://github.com/dlgs5100/Chatroom_Linux_Socket/tree/master/image/2.PNG) <br/>
-![image](https://github.com/dlgs5100/Chatroom_Linux_Socket/tree/master/image/1.jpg) <br/>
+![image](https://github.com/dlgs5100/Chatroom_Linux_Socket/blob/master/image/2.PNG) <br/>
+![image](https://github.com/dlgs5100/Chatroom_Linux_Socket/blob/master/image/1.jpg) <br/>
